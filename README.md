@@ -27,3 +27,6 @@ I have two years of experience in web development and have been creating full-st
 
 ---
 [![](https://visitcount.itsvg.in/api?id=marcokumu&icon=0&color=3)](https://visitcount.itsvg.in)
+
+## Snake eating my contribution
+![snake gif](https://github.com/marcokumu/marcokumu/blob/output/github-contribution-grid-snake.gif)
