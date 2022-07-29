@@ -12,7 +12,7 @@ I have two years of experience in web development and have been creating full-st
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=marcokumu&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
+<img align="right" alt="Coding" width="400" top="50" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
 
 
 ## 🏆 GitHub Trophies
