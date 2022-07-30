@@ -8,7 +8,14 @@ I have two years of experience in web development and have been creating full-st
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/markokumu) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/markokumu5) 
+<p align="left">
+<a href="https://twitter.com/markokumu5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="markokumu5" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/markokumu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="markokumu" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/18058114" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="18058114" height="30" width="40" /></a>
+<a href="https://instagram.com/mark.okumu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mark.okumu" height="30" width="40" /></a>
+<a href="https://medium.com/@marcokumu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@marcokumu" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/marcokumu10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="marcokumu10" height="30" width="40" /></a>
+</p>
 
 
 # 📊 GitHub Stats:
@@ -29,3 +36,5 @@ I have two years of experience in web development and have been creating full-st
 
 ## Snake eating my contribution😂 
 ![snake gif](https://github.com/marcokumu/marcokumu/blob/output/github-contribution-grid-snake.gif)
+
+<p align="left"> <a href="https://twitter.com/markokumu5" target="blank"><img src="https://img.shields.io/twitter/follow/markokumu5?logo=twitter&style=for-the-badge" alt="markokumu5" /></a> </p>
