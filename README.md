@@ -26,10 +26,10 @@ I have two years of experience in web development and have been creating full-st
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=marcokumu&theme=discord&no-frame=true&no-bg=false&margin-w=4)
+<img align="right" alt="Coding" width="120" top="0" src="./images/business-3d-young-man-standing-with-laptop.png">
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 
 ---
 [![](https://visitcount.itsvg.in/api?id=marcokumu&icon=0&color=3)](https://visitcount.itsvg.in)
