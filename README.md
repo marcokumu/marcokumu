@@ -34,7 +34,7 @@ I have two years of experience in web development and have been creating full-st
 ---
 [![](https://visitcount.itsvg.in/api?id=marcokumu&icon=0&color=3)](https://visitcount.itsvg.in)
 
-## Snake eating my contribution😂 
+## Snake eating my contributions😂 
 ![snake gif](https://github.com/marcokumu/marcokumu/blob/output/github-contribution-grid-snake.gif)
 
 <p align="left"> <a href="https://twitter.com/markokumu5" target="blank"><img src="https://img.shields.io/twitter/follow/markokumu5?logo=twitter&style=for-the-badge" alt="markokumu5" /></a> </p>
