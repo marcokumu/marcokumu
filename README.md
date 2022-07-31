@@ -17,6 +17,7 @@ I have two years of experience in web development and have been creating full-st
 <a href="https://www.hackerrank.com/marcokumu10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="marcokumu10" height="30" width="40" /></a>
 </p>
 
+![](https://raw.githubusercontent.com/Subhampreet/Subhampreet/master/media/header_.png)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=marcokumu&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
@@ -33,6 +34,7 @@ I have two years of experience in web development and have been creating full-st
 
 ---
 [![](https://visitcount.itsvg.in/api?id=marcokumu&icon=0&color=3)](https://visitcount.itsvg.in)
+
 
 ## Snake eating my contributions😂 
 ![snake gif](https://github.com/marcokumu/marcokumu/blob/output/github-contribution-grid-snake.gif)
