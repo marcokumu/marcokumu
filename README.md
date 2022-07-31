@@ -15,7 +15,7 @@ I have two years of experience in web development and have been creating full-st
 <a href="https://instagram.com/mark.okumu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mark.okumu" height="30" width="40" /></a>
 <a href="https://medium.com/@marcokumu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@marcokumu" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/marcokumu10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="marcokumu10" height="30" width="40" /></a>
-<a href="https://dev.to/subhampreet"><img height="35" align="center" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg"></a>
+<a href="https://dev.to/marcokumu"><img height="35" align="center" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg"></a>
 </p>
 
 ![](https://raw.githubusercontent.com/Subhampreet/Subhampreet/master/media/header_.png)
