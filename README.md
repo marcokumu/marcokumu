@@ -7,7 +7,7 @@
 I have two years of experience in web development and have been creating full-stack web applications using modern HTML, CSS, Javascript, React and Ruby on Rails.<br><br>I've managed a project at a hackathon, and I work well with others. In addition to developing websites, I also design visuals and UI/UX.<br><br>I have a creative mind and a passion for developing user-friendly websites. In addition, I actively search out new technologies, enjoy reading and writing blog posts, and keep up with business trends and breakthroughs.
 
 
-## 🌐 Socials:
+## 🌐 Socials:![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 <p align="left">
 <a href="https://twitter.com/markokumu5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="markokumu5" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/markokumu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="markokumu" height="30" width="40" /></a>
