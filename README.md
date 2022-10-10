@@ -22,7 +22,7 @@ I have two years of experience in web development and have been creating full-st
 ![](https://raw.githubusercontent.com/Subhampreet/Subhampreet/master/media/header_.png)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=marcokumu&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<a href="http://www.github.com/marcokumu"><img src="https://activity-graph.herokuapp.com/graph?username=marcokumu&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" width="570" /></a>
 <img align="right" alt="Coding" width="250" top="-50" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
 
 
