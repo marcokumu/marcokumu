@@ -5,6 +5,7 @@
 
 # 💫 About Me:
 I have two years of experience in web development and have been creating full-stack web applications using modern HTML, CSS, Javascript, React and Ruby on Rails.<br><br>I've managed a project at a hackathon, and I work well with others. In addition to developing websites, I also design visuals and UI/UX.<br><br>I have a creative mind and a passion for developing user-friendly websites. In addition, I actively search out new technologies, enjoy reading and writing blog posts, and keep up with business trends and breakthroughs.
+*   🌍  I'm based in Nairobi
 
 
 ## 🌐 Socials:![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
