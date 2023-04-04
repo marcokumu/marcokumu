@@ -22,7 +22,7 @@ I have two years of experience in web development and have been creating full-st
 ![](https://raw.githubusercontent.com/Subhampreet/Subhampreet/master/media/header_.png)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=marcokumu&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+![Okumu's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcokumu&show_icons=true&theme=radical)
 <img align="right" alt="Coding" width="250" top="-50" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
 
 
