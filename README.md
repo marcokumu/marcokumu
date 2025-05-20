@@ -1,4 +1,3 @@
-# <div align="center">👋 Hello, I'm Marc Okumu</div>
 
 <div align="center">
   <img src="./images/github-header-image%20(5).png" alt="Marc Okumu - Software Developer" width="100%">
