@@ -30,7 +30,7 @@ With a strong passion for mobile app development and open-source projects, I am 
 
 
 <div align="center">
-  <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="Coding" width="400" height="200">
+  <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="Coding" width="400" >
 </div>
 
 ---
