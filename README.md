@@ -7,7 +7,21 @@
 
 # 💫 About Me
 
-I have two years of experience in web development and have been creating full-stack web and mobile applications using Javascript, React, Ruby , Ruby on Rails and Flutter.<br><br>I've managed a project at a hackathon, and I work well with others. In addition to developing websites, I also design visuals and UI/UX.<br><br>I have a creative mind and a passion for developing user-friendly websites. In addition, I actively search out new technologies, enjoy reading and writing blog posts, and keep up with business trends and breakthroughs.
+I am a skilled Flutter developer with experience in building and deploying cross-platform mobile applications for
+iOS, Android, and Web. I have played a key role in developing and maintaining multiple
+mobile applications, ensuring a seamless user experience and successful deployment on the App Store and Google
+Play Store.
+
+My expertise includes Flutter, Dart, and Firebase, with hands-on experience in real-time data handling,
+authentication, and cloud storage. I have worked on optimizing app performance, UI/UX, and state management,
+ensuring smooth and interactive user experiences.
+
+Additionally, I have experience working with React, Ruby, Ruby on Rails, and JavaScript, which enhances my ability to
+build full-stack applications and integrate APIs effectively.
+
+With a strong passion for mobile app development and open-source projects, I am committed to building scalable,
+user-friendly applications that enhance usability and engagement. My ability to collaborate with designers, backend
+developers, and stakeholders makes me a valuable asset in Flutter development.
 
 - 🌍 I'm based in Nairobi
 
