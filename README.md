@@ -28,7 +28,6 @@ Additionally, I have experience working with React, Ruby, Ruby on Rails, and Jav
 
 With a strong passion for mobile app development and open-source projects, I am committed to building scalable, user-friendly applications that enhance usability and engagement. My ability to collaborate with designers, backend developers, and stakeholders makes me a valuable asset in Flutter development.
 
-<p align="center">🌍 Based in Nairobi, Kenya</p>
 
 <div align="right">
   <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="Coding" width="200">
